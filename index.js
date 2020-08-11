@@ -59,7 +59,7 @@ client.on("message", msg => {
                 console.log(games.delete(msg.channel.id))
             }
         } else {
-            command.execute(client, msg, args)
+            command.execute(msg, args)
         }
     } catch(err) {
         msg.reply(`il y a eu une erreur lors de l'execution de la commande \`${config.prefix}${commandName} ${args.join(" ")}\` :/`)

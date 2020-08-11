@@ -1,0 +1,22 @@
+{
+  "name": "bot.puissance-4",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeTomium/bot.puissance-4.git"
+  },
+  "author": "LeTomium",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeTomium/bot.puissance-4/issues"
+  },
+  "homepage": "https://github.com/LeTomium/bot.puissance-4#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}

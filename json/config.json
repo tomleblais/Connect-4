@@ -1,0 +1,27 @@
+{
+    "prefix": "!",
+    "keywords": {
+        "new": "new",
+        "drop": "drop",
+        "close": "close",
+        "help": "help"
+    },
+    "teams": {
+        "red": {
+            "char": "🔴"
+        },
+        "yellow": {
+            "char": "🟡"
+        },
+        "green": {
+            "char": "🟢"
+        },
+        "blue": {
+            "char": "🔵"
+        },
+        "purple": {
+            "char": "🟣"
+        }
+    },
+    "inARow": 4
+}
